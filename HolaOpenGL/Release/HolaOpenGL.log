@@ -1,0 +1,75 @@
+﻿  HolaOpenGL.cpp
+c:\mingw\gl\include\utilidades.h(29): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\mingw\gl\include\utilidades.h(30): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\mingw\gl\include\utilidades.h(35): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\mingw\gl\include\utilidades.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\mingw\gl\include\utilidades.h(38): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\mingw\gl\include\utilidades.h(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(78): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(83): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(103): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(104): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(107): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(108): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(118): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(120): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(132): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(144): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(161): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(177): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(193): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(235): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(236): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(237): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(259): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(260): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(265): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(266): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(267): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(276): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(277): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(278): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(286): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(293): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(313): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(314): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(315): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(322): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(325): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(326): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(327): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(335): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(337): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(344): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(347): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(349): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(370): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(388): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rarj1\documents\trabajos\proyectos\relojopengl\holaopengl\holaopengl.cpp(407): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  17 of 18 functions (94.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HolaOpenGL.vcxproj -> C:\Users\rarj1\Documents\Trabajos\Proyectos\RelojOpenGL\Release\HolaOpenGL.exe
